@@ -15,7 +15,7 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -35,7 +35,7 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 <h2 align="left">J'apprends</h2>
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -64,5 +64,3 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Spupuce&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Spupuce&icon=4&color=5)](https://visitcount.itsvg.in)

@@ -78,6 +78,10 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spupuce&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spupuce&theme=2077" height="180em" />
 </div> -->
+<br>
 
-## 🏆Trophées GitHub
-![](https://github-trophies.vercel.app/?username=Spupuce&theme=dracula&no-frame=true&no-bg=true&margin-w=60)
+<h2 align="center">Trophées</h2>
+<br>
+<div align="center">
+<img align="center" src="https://github-trophies.vercel.app/?username=Spupuce&theme=dracula&no-frame=true&no-bg=true&margin-w=60" />
+<br>

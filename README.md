@@ -11,9 +11,8 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 <h3> Languages</h3>
 
 
-<h2 align="left">Je maitrise</h2>
-
-###
+<h2 align="center">Je maitrise</h2>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -32,8 +31,8 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 </div>
 <br>
 
-<h2 align="left">J'apprends</h2>
-
+<h2 align="center">J'apprends</h2>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -56,11 +55,29 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 ###
 <br>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Spupuce&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Spupuce&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spupuce&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">Statistiques</h2>
+<br>
+<div align="center">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spupuce&langs_count=8&theme=dracula" alt=Spupuce />
+</div>
+<br>
+<div align="center">
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Spupuce&show_icons=true&locale=en&theme=dracula" alt="Spupuce" /></p>
+</div>
+<br>
+<div align="center">
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Spupuce&theme=dracula" alt="Spupuce" /></p>
+</div>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Spupuce&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+<a href="https://github.com/Spupuce">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spupuce&theme=darcula" height="180em" />
+<!-- </div>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spupuce&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spupuce&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spupuce&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spupuce&theme=2077" height="180em" />
+</div> -->
 
+## 🏆Trophées GitHub
+![](https://github-trophies.vercel.app/?username=Spupuce&theme=dracula&no-frame=true&no-bg=true&margin-w=60)

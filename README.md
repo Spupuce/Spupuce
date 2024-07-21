@@ -62,7 +62,7 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
 </div>
 <br>
 <div align="center">
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Spupuce&show_icons=true&locale=en&theme=dracula" alt="Spupuce" /></p>
+<p>&nbsp;<img align="center" height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spupuce)](https://github.com/Spupuce/github-readme-stats)" /></p>
 </div>
 <br>
 <div align="center">

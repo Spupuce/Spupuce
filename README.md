@@ -5,7 +5,7 @@
 Créer un site de suivi de douleur pour une maladie invalidante dont je souffre. Le but, faire ressortir quelque chose de bon de tout ça. </p>
 <br>
 <p>Alors, après deux ans difficiles, c'est décidé, je me lance.<br>
-J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et j'ai une motiveeee!!!! Depuis un an et demi, c'est mon rituel satisfaction.  Alors bonne création à tous ! </p>
+J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et j'ai une motiveeee!!!! Depuis trois et demi, c'est mon rituel satisfaction.  Alors bonne création à tous ! </p>
 
 <br>
 <h3> Languages</h3>

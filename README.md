@@ -1,6 +1,6 @@
 <h1>Bonjour à tous ! 👋</h1>
 <br>
-<p></p>Moi, c'est Sandrine, j'ai 41 ans. J'ai toujours été passionnée par le monde de l'informatique et je me suis lancée un défi.
+<p></p>Moi, c'est Sandrine, j'ai 42 ans. J'ai toujours été passionnée par le monde de l'informatique et je me suis lancée un défi.
 <br>
 Créer un site de suivi de douleur pour une maladie invalidante dont je souffre. Le but, faire ressortir quelque chose de bon de tout ça. </p>
 <br>

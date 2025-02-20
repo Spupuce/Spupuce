@@ -32,6 +32,8 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+  <img width="12" />
 </div>
 <br>
 

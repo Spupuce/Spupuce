@@ -1,19 +1,18 @@
 <h1>Bonjour à tous ! 👋</h1>
 <br>
-<p></p>Moi, c'est Sandrine, j'ai 42 ans. J'ai toujours été passionnée par le monde de l'informatique et je me suis lancée un défi.
+<p>Moi, c'est Sandrine, j'ai 42 ans. Passionnée d'informatique depuis toujours, je me suis lancée un défi : créer un site de suivi de douleur pour une maladie invalidante dont je souffre. Le but ? Faire ressortir quelque chose de bon de tout ça, et aider d'autres personnes dans la même situation.</p>
 <br>
-Créer un site de suivi de douleur pour une maladie invalidante dont je souffre. Le but, faire ressortir quelque chose de bon de tout ça. </p>
+<p>Après deux ans difficiles, j'ai décidé de me lancer à fond dans le développement web. J’ai choisi le stack MERN (MongoDB, Express, React, Node.js) pour concevoir une application moderne, sécurisée et évolutive. Ce projet me permet de progresser chaque jour, d’apprendre sans cesse et de transformer l’adversité en moteur de créativité.</p>
 <br>
-<p>Alors, après deux ans difficiles, c'est décidé, je me lance.<br>
-J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et j'ai une motiveeee!!!! Depuis 2020, c'est mon rituel satisfaction.  Alors bonne création à tous ! </p>
+<p>Parallèlement à ma reconversion, je travaille comme gestionnaire de projet dans le déploiement de solutions de vidéoprotection. Cette expérience m’a permis de développer rigueur, organisation et sens du travail en équipe. Je prépare actuellement la certification RNCP37625 pour consolider mes compétences en FullStack JS.</p>
+<br>
+<p>Curieuse, persévérante et motivée, j’adore apprendre, partager et relever de nouveaux défis techniques et humains. Alors bonne création à tous !</p>
 
 <br>
 <h3> Languages</h3>
 
-
-<h2 align="center">Je maitrise</h2>
+<h2 align="center">Je maîtrise</h2>
 <br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -33,10 +32,16 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
   <img width="12" />
 </div>
 <br>
+<div align="center">
+  Intégration web (HTML5, CSS3, SASS, Bootstrap)<br>
+  Maquettage et prototypage (Figma)<br>
+  Gestion de versions (Git, GitHub)<br>
+  Utilisation avancée de VS Code
+</div>
+<br>
 
 <h2 align="center">J'apprends</h2>
 <br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -50,6 +55,17 @@ J'ai mon concept, ma vision précise de ce que je veux, une soif d'apprendre et 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" style="filter: grayscale(100%);" title="React Native" />
 </div>
+<br>
+<div align="center">
+  Programmation JavaScript ES6+<br>
+  Développement Front-End avec React et React Native<br>
+  Développement Back-End avec Node.js et Express<br>
+  Gestion de bases de données NoSQL avec MongoDB<br>
+  Création et consommation d’API REST<br>
+  Déploiement d’applications web<br>
+  Approche fullstack (stack MERN)
+</div>
+
 
 ###
 <br>

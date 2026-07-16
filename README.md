@@ -1,6 +1,6 @@
 <h1>Bonjour à tous ! 👋</h1>
 <br>
-<p>Moi, c'est Sandrine, j'ai 42 ans. Passionnée d'informatique depuis toujours, je me suis lancée un défi : créer un site de suivi de douleur pour une maladie invalidante dont je souffre. Le but ? Faire ressortir quelque chose de bon de tout ça, et aider d'autres personnes dans la même situation.</p>
+<p>Moi, c'est Sandrine, j'ai 44 ans. Passionnée d'informatique depuis toujours, je me suis lancée un défi : créer un site de suivi de douleur pour une maladie invalidante dont je souffre. Le but ? Faire ressortir quelque chose de bon de tout ça, et aider d'autres personnes dans la même situation.</p>
 <br>
 <p>Après deux ans difficiles, j'ai décidé de me lancer à fond dans le développement web. J’ai choisi le stack MERN (MongoDB, Express, React, Node.js) pour concevoir une application moderne, sécurisée et évolutive. Ce projet me permet de progresser chaque jour, d’apprendre sans cesse et de transformer l’adversité en moteur de créativité.</p>
 <br>
